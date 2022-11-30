@@ -1,3 +1,6 @@
 # Pensamento-Cumputacional
 AULAS PENSAMENTO COMPUTACIONAL
-COMIT
+<div> 
+<ul> 
+<img> 
+
