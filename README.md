@@ -1,2 +1,3 @@
 # Pensamento-Cumputacional
 AULAS PENSAMENTO COMPUTACIONAL
+COMIT
