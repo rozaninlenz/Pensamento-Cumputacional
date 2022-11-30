@@ -1,0 +1,2 @@
+# Pensamento-Cumputacional
+AULAS PENSAMENTO COMPUTACIONAL
